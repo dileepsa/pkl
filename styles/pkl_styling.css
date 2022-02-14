@@ -1,0 +1,57 @@
+.pkl-page {
+  font-family: sans-serif;
+  font-weight: 100;
+  width: 70%;
+  margin: 0px auto;
+  box-sizing: border-box;
+  border: 1px solid lightgrey;
+  background-color: rgb(247, 247, 247);
+}
+
+.center-text {
+  width: 500px;
+  text-align: center;
+}
+
+.summary_table {
+  margin: 30px;
+  border: 1px solid;
+  width: 40%;
+}
+
+img {
+  padding-left: 50px;
+  height: 200px;
+}
+
+li {
+  margin: 5px 30px;
+}
+
+a {
+  text-decoration: solid;
+  color: sienna;
+}
+
+p {
+  padding: 20px;
+  line-height: 1.4em;
+}
+
+div {
+  margin: 10px;
+}
+
+td {
+  text-align: center;
+}
+
+
+
+tr {
+  line-height: 1.4em;
+}
+
+.title {
+  margin: 5px;
+}
